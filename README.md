@@ -1,0 +1,1 @@
+This repo is for getting started of Golang, referring to reading through "Programming in Go".
